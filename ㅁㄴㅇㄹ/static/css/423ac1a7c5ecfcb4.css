@@ -1,0 +1,145 @@
+﻿.footer_footer__3XHPM{
+    background:#1e1b21
+}
+.footer_cntntWrap__2ir-v{
+    max-width:600px;
+    margin-left:auto;
+    margin-right:auto;
+    padding:48px 16px
+}
+@media only screen and (min-width:1024px){
+    .footer_cntntWrap__2ir-v{
+        padding-left:0;
+        padding-right:0;
+        max-width:840px
+    }
+}
+@media only screen and (min-width:1200px){
+    .footer_cntntWrap__2ir-v{
+        max-width:1140px
+    }
+}
+.footer_srvcTxtWrap__ivOiL{
+    color:#e0dde4
+}
+.footer_srvcTxtHdng__2frvH{
+    color:#fff
+}
+.footer_srvcTxtDesc__2IdC6{
+    display:-moz-box;
+    display:flex;
+    -moz-box-orient:vertical;
+    -moz-box-direction:normal;
+    flex-direction:column;
+    margin-top:8px
+}
+.footer_srvcTxtBotLabLnk__3QPOj{
+    color:#e0dde4;
+    text-decoration:none
+}
+.footer_srvcTxtBotLabLnk__3QPOj:hover{
+    color:#05d3e0
+}
+.footer_lstWrp__2jz2u{
+    margin-top:48px
+}
+.footer_hdng__2of7C{
+    color:#655a72
+}
+.footer_lstItm__aAKb_:not(:first-child){
+    margin-top:16px
+}
+.footer_lstItmLnk__1sCPa{
+    color:#ada5b6
+}
+.footer_lstItmLnk__1sCPa:hover{
+    color:#fff
+}
+@media only screen and (min-width:1024px){
+    .footer_footer__3XHPM{
+        background:-webkit-gradient(linear,left bottom,left top,from(#2c2a31),to(#0e0e0f));
+        background:-webkit-linear-gradient(bottom,#2c2a31,#0e0e0f);
+        background:-moz-linear-gradient(bottom,#2c2a31 0,#0e0e0f 100%);
+        background:linear-gradient(1turn,#2c2a31,#0e0e0f)
+    }
+    .footer_cntntWrap__2ir-v{
+        padding-top:60px;
+        padding-bottom:60px;
+        display:-moz-box;
+        display:flex;
+        -moz-box-pack:justify;
+        justify-content:space-between
+    }
+    .footer_srvcTxtWrap__ivOiL{
+        margin-right:20px
+    }
+    .footer_srvcTxtDesc__2IdC6{
+        display:block
+    }
+    .footer_srvcTxtDescChildItem__ehZnT:not(:last-child):after{
+        content:"|"
+    }
+    .footer_navLstsWrp__3nGfD{
+        display:-moz-box;
+        display:flex;
+        flex-wrap:wrap;
+        margin-right:-77px;
+        margin-top:-20px
+    }
+    .footer_lst__5FA4h{
+        margin-top:8px
+    }
+    .footer_lstItm__aAKb_:not(:first-child){
+        margin-top:5px
+    }
+    .footer_lstWrp__2jz2u{
+        margin-top:20px;
+        margin-right:77px
+    }
+}
+.contactUsInfoCard_cntWrap__1ZSF2{
+    max-width:600px;
+    margin-left:auto;
+    margin-right:auto;
+    padding-left:16px;
+    padding-right:16px;
+    text-align:center
+}
+@media only screen and (min-width:1024px){
+    .contactUsInfoCard_cntWrap__1ZSF2{
+        padding-left:0;
+        padding-right:0;
+        max-width:840px
+    }
+}
+@media only screen and (min-width:1200px){
+    .contactUsInfoCard_cntWrap__1ZSF2{
+        max-width:1140px
+    }
+}
+.contactUsInfoCard_hedng__1_V5X{
+    margin-top:32px;
+    color:#fff
+}
+.contactUsInfoCard_descptn__3EVBQ{
+    margin:6px auto 0;
+    color:#ada5b6
+}
+.contactUsInfoCard_joinBtn__1jKuC{
+    margin-top:32px
+}
+@media only screen and (min-width:1024px){
+    .contactUsInfoCard_cntWrap__1ZSF2{
+        max-width:760px
+    }
+}
+.contact_contctCard__3BGke{
+    margin:72px 0
+}
+@media only screen and (min-width:1024px){
+    .contact_contctCard__3BGke{
+        background:url(../../../images/fishingrod.svg) 10% no-repeat;
+        background-size:190px 330px;
+        margin:100px 0
+    }
+}

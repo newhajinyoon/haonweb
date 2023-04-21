@@ -1,0 +1,75 @@
+/* 전체 페이지 스타일 */
+body {
+  font-family: 'Noto Sans KR', sans-serif;
+  background-color: #F8F9FA;
+  margin: 0;
+}
+
+/* 제목 스타일 */
+h1 {
+  font-size: 3rem;
+  font-weight: 700;
+  text-align: center;
+  margin-top: 2rem;
+}
+
+/* 부제목 스타일 */
+h2 {
+  font-size: 2rem;
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+/* 소제목 스타일 */
+h3 {
+  font-size: 1.5rem;
+  font-weight: 500;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+/* 글자 스타일 */
+p {
+  font-size: 1rem;
+  line-height: 1.5;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+/* 이미지 스타일 */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* 버튼 스타일 */
+button {
+  font-size: 1rem;
+  font-weight: 500;
+  background-color: #007BFF;
+  color: #FFFFFF;
+  border: none;
+  border-radius: 0.25rem;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
+
+/* 링크 스타일 */
+a {
+  color: #007BFF;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* 코드 블록 스타일 */
+code {
+  font-size: 0.9rem;
+  background-color: #F8F9FA;
+  padding: 0.25rem;
+  border-radius: 0.25rem;
+}
